@@ -1,0 +1,7 @@
+.vscode/
+build/*
+greynoise.egg-info/
+Pipfile.lock
+*.pyc
+*.tar.gz
+*.json.gz
